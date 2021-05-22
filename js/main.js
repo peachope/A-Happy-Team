@@ -3,7 +3,7 @@ $(document).ready(function() {
         loop: true,
         margin: 10,
         nav: false,
-        autoplay: false,
+        autoplay: true,
         responsive: {
             0: {
                 items: 1
@@ -22,9 +22,9 @@ $(document).ready(function() {
             major: "N17DCPT003 - Thiết kế Đa phương tiện",
             description: '"Đầu lòng hai ả tố nga, Thúy kiều là chị em là Phương Anh"',
             pro1: "Adobe Photoshop",
-            pro2: "Adobe Photoshop",
-            pro3: "Adobe Photoshop",
-            pro4: "Adobe Illustrator",
+            pro2: "Adobe Illustrator",
+            pro3: "Adobe Premere",
+            pro4: "Adobe Affer Effect",
             image: "images/pa.png"
         },
         {
@@ -45,7 +45,7 @@ $(document).ready(function() {
             pro2: "Adobe Premiere",
             pro3: "Adobe Affer Effect",
             pro4: "Cinema 4D",
-            image: "images/trọng.png"
+            image: "images/kirby.png"
         },
     ]
     renderList(list, '.member-infor .container .owl-carousel');

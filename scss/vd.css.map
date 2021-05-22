@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,CAAC;EACP,SAAS,EAAE,MAAM;EACjB,MAAM,EAAE,MAAM;CACjB;;AAED,AAAA,GAAG,CAAC;EACA,aAAa,EAAE,iCAAiC;EAChD,gBAAgB,EAAE,OAAO;CAC5B",
+    "sources": [
+        "vd.scss"
+    ],
+    "names": [],
+    "file": "vd.css"
+}
