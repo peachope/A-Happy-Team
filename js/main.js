@@ -20,7 +20,7 @@ $(document).ready(function() {
     const list = [{
             name: "Trần Thị Phương Anh",
             major: "N17DCPT003 - Thiết kế Đa phương tiện",
-            description: '"Đầu lòng hai ả tố nga, Thúy kiều là chị em là Phương Anh"',
+            description: '"Đầu lòng hai ả tố nga, Thúy Kiều là chị em là Phương Anh"',
             pro1: "Adobe Photoshop",
             pro2: "Adobe Illustrator",
             pro3: "Adobe Premere",
